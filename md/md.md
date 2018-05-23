@@ -5,9 +5,9 @@ Markdown & Reveal.js
 ---
 为什么要了解Makrdown & Reveal.js
 --
-![](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![](yexi.github.com/res/fun1.gif)
 --
-![](https://media2.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif)
+![](yexi.github.com/res/fun2.gif)
 ---
 
 Markdown是啥
