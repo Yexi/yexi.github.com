@@ -1,13 +1,12 @@
 Markdown & Reveal.js   
 了解一下
-<br/>  
+<br />   
+@叶翔  
 2018.05.27
----
-为什么要了解Makrdown & Reveal.js
 --
-![](yexi.github.com/res/fun1.gif)
+![](res/fun1.gif)
 --
-![](yexi.github.com/res/fun2.gif)
+![](res/fun2.gif)
 ---
 
 Markdown是啥
@@ -19,6 +18,7 @@ Markdown是啥
 --
 >Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 > ————百度百科
+---
 
 ---
 Markdown的优点
