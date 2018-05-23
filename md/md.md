@@ -1,13 +1,13 @@
 Markdown & Reveal.js   
 了解一下
-</br>  
-**@叶翔**
+<br/>  
+2018.05.27
 ---
 为什么要了解Makrdown & Reveal.js
 --
-因为不想用Word & PowerPoint    
-(我是认真的)
-
+![](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+--
+![](https://media2.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif)
 ---
 
 Markdown是啥
@@ -68,10 +68,10 @@ Markdown的优点
 --
 ### 列表
 * 无序列表：  
-在文字前面加上`#`或者`*`  
-\# 1  
-\# 2  
-\# 3
+在文字前面加上`＋`或者`*`  
+\＊ 1  
+\＊ 2  
+\＊ 3
 <br />
 * 有序列表：  
 在文字前加`1.` `2.` `3.`  
@@ -98,11 +98,32 @@ Reveal.js又是个啥
 * Reveal.js 配备了广泛的功能，包括嵌套幻灯片，Markdown 内容，PDF 导出，演讲笔记和 JavaScript API。还有一个全功能的可视化编辑器和平台：slides.com。
 --
 ![](https://cdn.sspai.com/2017/08/29/73673b91c30fda95a3e628d07d2bd17c.gif?imageMogr2/quality/95/thumbnail/!700x233r/gravity/Center/crop/700x233)
---
-完整版安装：
-1.
+---
 
+完整版安装：<br>
+安装Node.js  安装Grunt   
+```
+git clone https://github.com/hakimel/reveal.js.git
+```
+到reveal.js文件夹，安装依赖
+```
+cd revael.js
+npm install
+```
+运行
+```
+grunt serve
+```
+
+
+--
+
+--
 再见Word！你好Markdown!
 再见PPT!你好Reveal.js!
+--
+＃ 谢谢大家
+--
+
 
 https://vxhly.github.io/2016/09/reveal-js-cn-document/
