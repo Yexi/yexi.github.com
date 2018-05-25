@@ -11,11 +11,9 @@ Markdown & Reveal.js
 ---
 Markdown是啥
 --
- >Markdown是一种轻量级标记语言，它允许人们“使用易读写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
- > ————维基百科
---
->Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
-> ————百度百科
+* Markdown是一种轻量级标记语言，它允许人们“使用易读写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。  ————维基百科
+
+* Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  ————百度百科
 
 ---
 Markdown是由**Aaron Swartz**和**John Gruber**共同设计.  
@@ -106,7 +104,8 @@ balabala...
 ---
 Reveal.js又是个啥
 --
-![Reveal.js](https://upload-images.jianshu.io/upload_images/16777-450adc0c3346b29d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+![Reveal.js](https://upload-images.jianshu.io/upload_images/16777-450adc0c3346b29d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)  
+
 一个展示内容的HTML框架
 --
 ### 优点  
