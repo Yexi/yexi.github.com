@@ -15,7 +15,7 @@ Markdown是啥
 
 * Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  ————百度百科
 
----
+--
 Markdown是由**Aaron Swartz**和**John Gruber**共同设计.  
 + John Gruber是苹果社群著名的blogger、作家、UI设计师、软件工程师,持续观察和发表苹果公司相关资讯和观点长达十余年。  
 <br />
