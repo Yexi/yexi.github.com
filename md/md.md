@@ -19,7 +19,7 @@ Flutter团队正在扩展Flutter，支持创建macOS、Windows和Linux应用程�
 * Dart是Google推出的一门编程语言，最初是希望取代Javascript运行在浏览器端，后来。。。
 * Dart运行时和编译器支持两种Flutter关键特性的结合：基于JIT(Just In Time:边运行边编译)和hot-reloads（热重载）能够缩减开发周期，加之AOT(Ahead Of Time:运行前编译)编译器生成的高效ARM代码， 能够为产品部署提供快速启动能力和可预期的性能指标。
 ---
-* Material:中文名：材料设计语言，是由Google2014年推出的设计语言，谷歌表示，这种设计语言旨在为手机、平板电脑、台式机和“其他平台”提供更一致、更广泛的“外观和感觉”。Material就是Android风格的组件。
+* Material:中文名：材料设计语言，是由Google2014年推出的设计语言，谷歌表示，这种设计语言旨在为手机、平板电脑、台式机和“其他平台”提供更一致、更广泛的“外观和感觉”。Material就是Android风格的组件。  
 https://material.io/
 * Cupertino: 库比蒂诺是硅谷核心城市之一，也是苹果公司的总部，这就很容易理解了，Cupertino就是iOS风格的组件。
 ---
